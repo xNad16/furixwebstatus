@@ -17,6 +17,6 @@ enableComments: true
 
 Fivem is now have issue with KeyMaster , our server is not showing in the server list , this problem is not on our side its on fivem side , our server is online good but KeyMaster is having some problem and not showing our server on the server list , we just hopping that this issue will be fixed ASAP
 
-Pls use direct connect to join as waiting for fix from FiveM IP -  [159.65.128.44](http://159.65.128.44:40120/)-30120
+Pls use direct connect to join as waiting for fix from FiveM IP - 159.65.128.44-30120
 
 <!--EndFragment-->
