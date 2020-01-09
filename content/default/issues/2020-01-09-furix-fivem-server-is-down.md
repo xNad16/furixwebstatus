@@ -2,7 +2,7 @@
 section: issue
 title: Furix FiveM Server Is Down
 date: 2020-01-09T07:32:50.931Z
-status: in_progress
+status: resolved
 pinned: ''
 current_severity: down
 max_severity: down
