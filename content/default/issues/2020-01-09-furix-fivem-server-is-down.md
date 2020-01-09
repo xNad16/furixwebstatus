@@ -7,7 +7,7 @@ pinned: ''
 current_severity: down
 max_severity: down
 duration: ''
-resolved_on: 2020-01-09T07:32:50.948Z
+resolved_on: 2020-01-10T07:32:50.948Z
 affected:
   - 'Furix FiveM Server '
 twitterFeed: ''
