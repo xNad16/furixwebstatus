@@ -5,8 +5,7 @@ params:
   dateFormat: 'January 2, 2006 at 3:04 PM'
   description_footer: >-
     <a class='text-grey-darkest' title='Visit furixmy.com'
-    href='https://www.furixmy.com/'>furixmy.com</a> provides open-source
-    software for all kind of sectors.
+    href='https://www.furixmy.com/'>furixmy.com</a> .
   description_header: This Webiste To View Furix Server Status
   eventsPerPage: 10
   groups:
