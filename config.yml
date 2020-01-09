@@ -7,13 +7,7 @@ params:
     <a class='text-grey-darkest' title='Visit furixmy.com'
     href='https://www.furixmy.com/'>furixmy.com</a> provides open-source
     software for all kind of sectors.
-  description_header: >-
-    Information about <a class='text-grey-darkest' title='Visit furixmy.com'
-    href='https://www.furixmy.com/'>example</a> systems operations.<br />Follow
-    us <a class='text-grey-darkest' title='Visit our page on Twitter'
-    href='https://www.twitter.com/furixmy'>on Twitter</a> or subscribe to <a
-    class='text-grey-darkest' href='%s' >RSS</a><br />to be alerted of new
-    events.
+  description_header: This Webiste To View Furix Server Status
   eventsPerPage: 10
   groups:
     - Furix Server
