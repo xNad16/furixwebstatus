@@ -17,7 +17,7 @@ params:
   eventsPerPage: 10
   groups:
     - Furix Server
-  logo: /images/lclearstatus.svg
+  logo: /images/clearstatus.svg
   meta_description: >-
     This status page provides updated information about our Furix Server systems
     normal operation, incidents that may happen and their resolution.
